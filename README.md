@@ -3,8 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-
-	<!-- This site is optimized with the Yoast SEO plugin v22.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v22.3 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Mahadev Cricket | Most Trusted Online Cricket ID Provider BOOK Now - Online Cricket ID | Mahadev Cricket ID | Mahadev Online Cricket ID BOOK</title>
 	<meta name="description" content="Mahadev Cricket ID Online- India&#039;s Most Trusted Cricket ID Provider. IPL, T20 World Cup &amp; All Matches Update. BOOK Your Slot Now. Get Bonus ." />
 	<link rel="canonical" href="https://mahadevid.in/" />
@@ -19,8 +18,6 @@
 	<meta name="twitter:card" content="summary_large_image" />
 	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://mahadevid.in/","url":"https://mahadevid.in/","name":"Mahadev Cricket | Most Trusted Online Cricket ID Provider BOOK Now - Online Cricket ID | Mahadev Cricket ID | Mahadev Online Cricket ID BOOK","isPartOf":{"@id":"https://mahadevid.in/#website"},"primaryImageOfPage":{"@id":"https://mahadevid.in/#primaryimage"},"image":{"@id":"https://mahadevid.in/#primaryimage"},"thumbnailUrl":"http://mahadevid.in/wp-content/uploads/2024/02/Untitled-design-unscreen.gif","datePublished":"2024-02-06T12:09:21+00:00","dateModified":"2024-03-23T15:39:03+00:00","description":"Mahadev Cricket ID Online- India's Most Trusted Cricket ID Provider. IPL, T20 World Cup & All Matches Update. BOOK Your Slot Now. Get Bonus .","breadcrumb":{"@id":"https://mahadevid.in/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://mahadevid.in/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://mahadevid.in/#primaryimage","url":"http://mahadevid.in/wp-content/uploads/2024/02/Untitled-design-unscreen.gif","contentUrl":"http://mahadevid.in/wp-content/uploads/2024/02/Untitled-design-unscreen.gif"},{"@type":"BreadcrumbList","@id":"https://mahadevid.in/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://mahadevid.in/#website","url":"https://mahadevid.in/","name":"Online Cricket ID | Mahadev Cricket ID | Mahadev Online Cricket ID BOOK","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://mahadevid.in/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
 	<!-- / Yoast SEO plugin. -->
-
-
 <link rel='dns-prefetch' href='//www.googletagmanager.com' />
 <link rel="alternate" type="application/rss+xml" title="Online Cricket ID | Mahadev Cricket ID | Mahadev Online Cricket ID BOOK &raquo; Feed" href="https://mahadevid.in/?feed=rss2" />
 <link rel="alternate" type="application/rss+xml" title="Online Cricket ID | Mahadev Cricket ID | Mahadev Online Cricket ID BOOK &raquo; Comments Feed" href="https://mahadevid.in/?feed=comments-rss2" />
@@ -30,8 +27,8 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 !function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
 </script>
 <style id='wp-emoji-styles-inline-css'>
-
-	img.wp-smiley, img.emoji {
+img.wp-smiley, img.emoji 
+{
 		display: inline !important;
 		border: none !important;
 		box-shadow: none !important;
@@ -73,7 +70,6 @@ gtag("js", new Date());
 gtag("set", "developer_id.dZTNiMT", true);
 gtag("config", "GT-5M37LXS8");
 </script>
-
 <!-- End Google Analytics snippet added by Site Kit -->
 <link rel="https://api.w.org/" href="https://mahadevid.in/index.php?rest_route=/" /><link rel="alternate" type="application/json" href="https://mahadevid.in/index.php?rest_route=/wp/v2/pages/7" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mahadevid.in/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.4.4" />
